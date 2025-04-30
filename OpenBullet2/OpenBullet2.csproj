@@ -44,7 +44,7 @@
     <PackageReference Include="HtmlSanitizer" Version="5.0.372" />
     <PackageReference Include="IronPython" Version="2.7.11" />
     <PackageReference Include="IronPython.StdLib" Version="2.7.11" />
-    <PackageReference Include="Jering.Javascript.NodeJS" Version="5.4.4" />
+    <PackageReference Include="Jering.Javascript.NodeJS" Version="6.3.0" />
     <PackageReference Include="Jint" Version="3.0.0-beta-1828" />
     <PackageReference Include="Markdig" Version="0.22.1" />
     <PackageReference Include="MaxMind.GeoIP2" Version="4.0.1" />
